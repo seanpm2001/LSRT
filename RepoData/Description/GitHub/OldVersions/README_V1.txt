@@ -1,0 +1,1 @@
+☄️🛰️💾️ The official source repository for Lightspeed Relay Technologies, Lightspeed Relay is a set of technologies for data transfer between vast distances at/near the speed of light, one planet to the next. It is in the field of interplanetary Internet.
